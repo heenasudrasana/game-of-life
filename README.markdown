@@ -32,4 +32,4 @@ John is an experienced consultant and trainer specialising in Enterprise Java, W
 This is my 1st change
 :wq
 
-
+ADDED 2nd line to the file
